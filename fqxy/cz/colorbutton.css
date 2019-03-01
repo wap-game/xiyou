@@ -1,0 +1,114 @@
+﻿#dark {
+	background-color: #333;
+	border: 1px solid #000;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+#light {
+	background-color: #FFF;
+	border: 1px solid #dedede;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+.button,.button:visited {
+	display: inline-block;
+	padding: 3px 10px 4px;
+	color: #FFF;
+	text-decoration: none;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+	text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+	position: relative;
+	cursor: pointer
+}
+
+.button:hover {
+	background-color: #FFF;
+	color: #fff;
+}
+
+.button:active {
+	top: 1px;
+}
+
+.small.button,.small.button:visited {
+	font-size: 12px
+}
+
+.button,.button:visited,.medium.button,.medium.button:visited {
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 1;
+	text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.large.button,.large.button:visited {
+	font-size: 16px;
+	padding: 5px 13px 5px;
+}
+
+.super.button,.super.button:visited {
+	font-size: 34px;
+	padding: 8px 14px 9px;
+}
+
+.pink.button,.magenta.button:visited {
+	background-color: #e22092;
+}
+
+.pink.button:hover {
+	background-color: #c81e82;
+}
+
+.green.button,.green.button:visited {
+	background-color: #91bd09;
+}
+
+.green.button:hover {
+	background-color: #749a02;
+}
+
+.red.button,.red.button:visited {
+	background-color: #e62727;
+}
+
+.red.button:hover {
+	background-color: #cf2525;
+}
+
+.orange.button,.orange.button:visited {
+	background-color: #ff5c00;
+}
+
+.orange.button:hover {
+	background-color: #d45500;
+}
+
+.blue.button,.blue.button:visited {
+	background-color: #2981e4;
+}
+
+.blue.button:hover {
+	background-color: #2575cf;
+}
+
+.yellow.button,.yellow.button:visited {
+	background-color: #ffb515;
+}
+
+.yellow.button:hover {
+	background-color: #fc9200;
+}
+
+.yellow1.button,.yellow1.button:visited {
+	background-color: #ff7a01;
+}
+
+.yellow1.button:hover {
+	background-color: #ff7a01;
+}

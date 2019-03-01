@@ -1,0 +1,8 @@
+//银两加
+$yl1=2200;
+$wwpsl=$yl1; 
+include("./pz/ini_pz03.php");
+//经验加
+$jy=500;	
+include("./pz/ini_pzz023.php");
+//银两加

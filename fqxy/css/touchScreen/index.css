@@ -1,0 +1,44 @@
+﻿b{font-weight: normal;}
+.jiayuan_user{ width: 100%; margin-top:49px; padding:2% 0;  }
+.content{ display: flex;  display: -webkit-box; display: -moz-box;
+	display: -ms-flexbox; display: -webkit-flex; -webkit-box-orient: horizontal;
+	-webkit-flex-direction: row; -moz-flex-direction: row; -ms-flex-direction: row;
+	-o-flex-direction: row; flex-direction: row; }
+.content img{ width: 121px; }
+.content .right{ -webkit-box-flex: 1;  -moz-box-flex: 1;  -webkit-flex: 1;  -ms-flex: 1;  flex: 1;
+	margin-bottom:2%; padding: 23px 16px 0; }
+.content .right p{ height: 28px; line-height: 28px;  }
+/*菜单分类*/
+.menu{ width: 100%; padding:0 3%; }
+.menu_list ul{ padding-bottom:2%; }
+.menu_list ul li{ float: left; margin-top:2%; width: 20%; }
+.menu_list ul a{ display: block; float: left; width: 100%; }
+.menu_list li p{ text-align: center;}
+.menu_list img{ width: 40%; max-width: 30px; margin: 0 auto; }
+.menu_bottom{ padding-bottom: 1px; position: relative; padding-top: 2%;}
+.menu_bottom p{ height: 24px; line-height: 24px; overflow: hidden; position: relative; }
+.menu_bottom b{ width: 50px; height: 20px; line-height:18px; text-align: center;
+	border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; float: left; }
+.menu_bottom span{ display: block; float: right; line-height:20px; width: calc(100% - 55px); width: -webkit-calc(100% - 55px);
+	width: -moz-calc(100% - 55px); text-align:left; text-overflow: ellipsis; }
+.title{ margin-top: 2%; height: 30px; line-height: 30px; padding-left: 8px; }
+.title a{ float: right;  margin-right:14px; }
+/*我的娱乐*/
+.play,.chat{ padding: 0 3%; }
+.play_content ul{ width: 100%; padding-top: 2%; }
+.play_content li { width: 33%; float: left; }
+.play_content li img{ margin: 0 auto; }
+.play_content li p{ text-align: center; line-height:30px }
+.play_bottom{ display: flex; }
+.play_bottom a{ flex: 1; line-height:38px; height:38px; text-align: center; }
+.play_bottom a b{ float: right; height: 14px; margin-top: 12px;}
+/*欢乐聊吧*/
+.in_chat{ text-align: center; padding:2% 0; }
+.friend_name{ position: relative; }
+.chat_time{ position: absolute; font-weight: normal; top: 4px; right:6px; }
+.in_chat_layout{ padding: 0 3%; }
+/*留言墙*/
+.liuyan_content,.firend_content{ width: 100%; }
+/*功能导航*/
+.index_pengyou_list .overflow_p{ white-space: normal; overflow: visible; }
+.index_pengyou_list .friend_name{ overflow: visible; width: 100%; }

@@ -1,0 +1,196 @@
+﻿/************************************蓝色*********************************/
+.blue_a{ color: #2893f5 }
+.gray_s{ color: #424242 }
+.purple_a{ color: #7e4def }
+.white_a{ color: #ffffff }
+.gray_i{ color: #676767 !important; }
+.lightGray_i{ color: #919191 !important; }
+.red_s{ color: #ff0000 !important;}
+.orange_p{ background-color: #fff2bd; }
+.light_blue_a{ color: #89c3fa; }
+.kf_tz{background-color: #fff2bd !important;}
+.red_i{ color: #ff0000;}
+/*******background:#fff 白底********/
+.bg_top,.ye,.input,.scc,.personal_center,.user,.user_2,.guidelines_a,.guidelines_three_a,.tribe_list,.guidelines_b,.banner_ico,.recharge,.service_form,
+.mypost_collect,.liaoBa_input > .txt,.openGarden_form,.mypost_collect,.hongbao_n_content,.hongbao_form,.sc_game_git,.game_git_r,.content .right,.menu,
+.play,.chat,.in_chat_layout,.yule_new_game,.yule_new_game .new_game,.yule_luntan,.tribe_newc_list .line,.wulinmeng_guide,.shou_hu_shu,.qiandao,
+.send_pho_form,.title_bi_layout,.against,.user_layout,.shuoshuo_input > .txt,.shuoshuo_delete,.share_d_c,.share_dynamic,.banzhu,.zaixian,.forum_search_c,
+.big_pic,.forum_share,.wulinmeng_content,.wulinmeng_form,.send_post_form,.message_send,.per_bbs_content,.per_add_content,.biaoqing,.add_fri_form,.tips,
+.time_form,.tribe_user,.s_message_list,.game_billboard_c,.libao_message_c,.title,.in_chat,.yule_game_bottom,.message_no_read,
+.s_message_list .paiming,.title_two,.title_three,.friend_list ul,.md,.pwd_wrap,.background_centen,.list_p_pwd,.title_click,
+.background_centen,.wulinmeng_txt,.wulinmeng_form,.wulinmeng_guide,.wulinmeng_content,.wulinmeng_top > div,.personal_h_info,.zhanwu,
+.wulinmeng_guide,.other_dongtai,.service_top,.bangzhu_list,.s_message_list,.game_billboard_c,.lun_search,.friend_list{ background-color: #fff; }
+/*用户头像*/
+.user_icon_bg,.user_icon_rotate{ background-color: #fff; }
+/*background-color:#fff; 白底 ,color: #424242; 深灰 */
+.tribe_billboard_c,.texst,.task_top,.lianghao_content_area,.my_tribe,.tribe_dynamic_list,.tribe_other_zuren,.tips,.game_content,
+.other_single_info,.s_message_list .paiming{ background-color: #fff; color: #424242;}
+/*background-color:#fff; ,color: #676767; 浅灰*/
+.tips_div,.share_shengji,.chat_room,.share_libao_c,.message_no_read{ background-color: #fff; color: #676767; }
+/*background-color:#eef7fc 背景底色*/
+html,.openGarden_top .new_game,.openGarden_form form input,.lianghao_top .new_game,.wowo_chat_form,.bgbg_top{ background:#eef7fc }
+/*color: #2893f5; 蓝a*/
+.edition span,.title_two > div.click a,.title_three > div.click a,.title_bi a,.friend_name .titme_cc,.tribe_list ul li a,.but_ccc,
+.tribe_list .line_height li p a,.color_s,.overflow_p >a,.active_hot .active_p > a,.user_icon_r .icon_r_center a ,.service_top .service_bName,
+.service_form .tips a,.friend_name a,.chat_oneCome p > a{ color: #2893f5; }
+.libao_message .blue_a,.mypost_collect > div > .c_active,.dingji_content .number,.tribe_nav .c_active,.title_two .c_active,
+.content .userName,.title a,.play_bottom a,.in_chat a,.firend_content .friend_name,.tribe_dynamic_list .list_li_p a,.tribe_newc_list .overflow_p a,
+.tribe_user .tribe_list_a,.tribe_other_zuren_p span,.tribe_list .blue_a,.tribe_list .dynamic_list_b_a a,.shuoshuo_l_a,.share_c_a,
+.share_rw_a >a,.wulinmeng_content .wulinmeng_c_a,.wulinmeng_form .wulinmeng_form_a, .ach_a li a,p.hd_a a,.achievement_ul li a,.title_click p.click a,
+.ach_b li a,.tribe_list ul li a,.tribe_list ul li i,.tribe_list .dynamic_list_b_a a,.tribe_list .per_back_a,.tribe_list .blue_a,.game_content_top > p > a,
+.hg_xiangqing_list .overflow_p > a,.friend_a,.tribe_list .blue_a,.edition a,.guidelines_a a,.guidelines_b a,.yule_game_bottom a,
+.wulinmeng_top .in_game > a,.wulinmeng_txt .wulinmeng_article a,.wulinmeng_guide a,.personal_h_info .h_info_a,.other_single_info > ul a,
+.other_dongtai .other_dongtai_p > a,.service_b_a,.mytasks_a >a,.msgtips a{ color:#2893f5}
+/*color: #424242; 深灰*/
+input, textarea, select,button{ color: #424242;}
+.service_top .service_i8,.libao_message a,.libao_message_c > p,.libao_message_c .libao_neirong,.hongbao_n_content > ul > li,
+.hongbao_form,.bName,.user_icon_r .icon_r_center p,.friend_name p,.friend_name .i_jia_list,.title_bi_layout .record,.against_banker .against_rule,
+.span_w,.xuanyan,.shuoshuo_l_i,.share_c_s i,.share_shengji .shengji_title,.share_shengji .title_p,.share_libao_c,.banzhu ul li p,
+.zaixian .zaixian_p,.wulinmeng_content .content_t,.wulinmeng_content .content_b,.tribe_me_list ul li p ,.per_add_p,.tribe_list,.hg_xiangqing_list .hg_jianbi,
+.add_fri_p,.m_fri_list,.xulie_from_p,.game_billboard_c ul li .billboard_p_first,.ye .so a,.friend_name p,.friend_name .titme_list,
+.dk_cc p.titme,.rr_s,.liaoBa_nav > div > a,.libao_message_c .libao_tip,.hongbao_form .title_txt,.hongbao_form .liuyan_txt,.tribe_newc_list .tribe_newc_p,
+.shou_hu_shu .shou_hu_dengji,.share_content,.wulinmeng_nav > div > a,.paihang_nav .paihang_nav_a,.pwd_input input,.pwd_input select,
+.s_message_list .paiming,.wulinmeng_txt > h3,.wulinmeng_txt .wulinmeng_article > p,.wulinmeng_nav > div > a,.wulinmeng_content .content_b,
+.wulinmeng_content .content_t,.personal_h_info .h_info_li .li_li,input[type = "text"],.personal_h_info .h_info_span,.other_dongtai > ul,.service_i,
+.game_billboard_c ul li .billboard_p_first{ color: #424242; }
+/*color: #676767; 浅灰*/
+.user_icon_r .icon_r_center p,.service_form .tips p,.luntandh_guide > .zanwu,.libao_message_c .libao_shiyong,.my_tribe_ul > li >span,
+.tribe_newc_list .overflow_p,.pho_form_p input[type="text"],.share_c_s,.forum_search_c .result_p,.forum_search_c .forum_c_list,.forum_share .forum_share_p,
+.wulinmeng_content .wulinmeng_c_span,.send_post_form .post_form_p,.post_form_p input[type="text"],.pwd_input,.edition a.click,.width_new>p,
+.texst span,.friend_name span,.tribe_list .line_height li p,.per_cen_list p span i,.dk_cc p,.width_new>p,.shop_xq,.per_data_p,.ss_delete_tips,
+.share_content .share_txt,.message_no_read,.md,.wulinmeng_content .wulinmeng_c_span,.personal_h_info .h_info_li > p,.zhanwu > p,
+.service_g_i{color: #676767;}
+.color_news{ color:#676767 !important }
+/*border:1px solid #abcaf4;  蓝边框*/
+select,.ye input,.service_form .title_txt,.per_data_p .txt,.data_div textarea,.court_txt,.put_form,.forum_search .for_search_txt,
+.forum_share_p .txt,.wulinmeng_form .txt,.send_post_form .post_form_txt,.send_post_form .post_form_textarea,
+.chat_room .per_bbs_content form,.message_txt,.per_add_content .txt,.lianghao_data_form input[type="text"],
+.lianghao_data_form input[type="password"],.add_fri_txt,.xulie_s_txt,.xulie_p_txt,.table_area,.table_area tr,.table_area td,.table_area th,
+.time_form .xulie_txt,.pwd_input input,.pwd_input select,.hongbao_form .title_txt,.hongbao_form .liuyan_txt,
+.share_content .share_txt,.shop_s,.wulinmeng_form .txt,.friend_beizhu,.txt_w60,.ec-input>input,.tribe_list>ul li>input,.ec-panel>textarea
+{ border: 1px solid #abcaf4; }
+/*border-right: 1px solid #abcaf4; 蓝右边框*/
+.guidelines_three_a a,.guidelines_three_a a:nth-child(4n+0),.title_two>div a,.title_three>div a,.guideline_three a:nth-child(2n+0),
+.mypost_collect > div > a,.play_bottom a b,.share_libaoma .s_libao_p_a,.share_dynamic .share_dynamic_a,.zaixian_guide a,.my_task_guide a:nth-child(4n+0),
+.title_two > div > a,.title_three > div > a,.title_click p a,.paihang_nav .paihang_nav_a,.guidelines_b a,.yule_game_bottom a,.scc a,
+.service_question div a,.tribe_nav > div > a,.wowo_nav div > a,.share_d_nav .share_d_nav_a,.liaoBa_nav > div > a,.wulinmeng_nav > div > a,
+.guidelines_a a,.wulinmeng_nav > div > a,.wulinmeng_guide a,.personal_nav > div > a,.service_massage div a,
+.guidelines .pengyou_guide_a a{ border-right: 1px solid #abcaf4; }
+/*蓝色上边框*/
+.menu_bottom,.play_bottom,.tribe_other_zuren .tribe_other_zuren_p,.tribe_data_nav,.game_content_bottom > .in_game,.game_info_bottom,
+.line,.game_billboard_c .mygame_nav,.in_chat,.yule_game_bottom,.libao_message_c,.libao_message_c .libao_tip,
+.game_billboard_c .mygame_nav{ border-top: 1px solid #abcaf4; }
+/*蓝色下边框*//*.friend_list ul*/
+.title_two,.title_three,.friend_right,.md,.tribe_list ul li,.per_cen_list p,.dk_cc a,.color_style .color_select,
+.shangcheng_list ul li:last-child .friend_right,.libao_message_c .libao_shiyong,.my_tribe_ul > li,.tribe_billboard_c > ul > li,
+.tribe_dynamic_list .list_li,.invite,.per_cen_list p:last-child,.share_guide,.share_line,.share_libao_c .s_libao_p,.line
+.banzhu ul li,.forum_search,.forum_search_c .forum_c_list,.wulinmeng_content > ul > li,.per_vi_list ul li:last-child .friend_right,
+.hg_xiangqing_list ul li:last-child .friend_right,.m_fri_list li,.share_libao_c .s_libao_p,.guide,.list_p_pwd ul li,.ach_a li,
+.title_click p,.ach_b li,.shop_ul li,.game_billboard_c ul li,.tribe_newc_list .tribe_newc_p,.shou_hu_shu .shou_hu_dengji,.share_content,
+.s_message_list .paiming,.per_data_p,.message_no_read,.recharge > ul > li,.mypost_collect > div,.mypost_collect > div,
+.wulinmeng_content ul li,.personal_h_info .h_info_li,.other_dongtai > ul > li,.message_no_read,.game_billboard_c ul li,
+.hot_game_list  ul li:last-child .friend_right,.s_message_list .paiming,.chat_log{ border-bottom: 1px solid #abcaf4;}
+/*background: #abcaf4; color: #fff; 蓝底白字*/
+.ye_but,.input .btn,.but,.task_but,.tribe_but,.service_form .submit,.liaoBa_input > .send,.tribe_user .garden_a,.openGarden_form form .submit,
+.libao_message_c .libao_lingqu,.hongbao_form .submit,.time_form_sub,.falv_btn > .inp,.send_pho_form .pho_file_a,.data_div .sub,.against_pic .btn,
+.wowo_chat_form .sub,input[type= "submit"],.shuoshuo_input > .send,.ss_delete_btn .btn_a,.falv_btn > .inp,.forum_search .for_search_sub,
+.forum_share_p .sub,.wulinmeng_form .submit,.send_post_form .post_file_a,.post_form_p .post_sub,.message_btn,.per_bbs_content .sub,
+.per_add_content .sub,.lianghao_sub,.game_content_bottom > .start_game,.xulie_sub,.time_form_sub,.new_button,
+.add_fri_sub,.wulinmeng_form .submit,.but_new{ background-color: #abcaf4; color: #fff; }
+/*color: #fff; 白色  background: #2893f5;深蓝底色*/
+.but a,.libao_message_c .libao_xinshou,.white_a a{ color:#fff;}
+.md_box,.message_no_read .m_update{color: #fff; background-color: #2893f5;}
+/*************title***********/
+.title_bi,.title{ border-left:6px solid #abcaf4; }
+.title_two>div.click,.title_three>div.click,.title_click p.click{ border-bottom:3px solid #2893f5; }
+.tx_icon{ border:1px solid #e0dfdf; }
+.mailbox.title_two>div a{ border-right:1px solid #2893f5;}
+.fx .guidelines_a{border-bottom:1px solid #d2e3f9;}
+.user_icon_bg,.user_icon_rotate{border: 1px solid #bcd5f6;box-shadow:0 0 1px 1px #bcd5f6; }
+/*导航栏*/
+.wrapper{background-color: #78bfff; }
+.wrapper > .wrapper_ul{background-color: #eef7fc;}
+.wrapper > .wrapper_ul > li.active{ background-color: #78bfff; }
+.wrapper > .wrapper_ul > li.active > a{color: #2893f5; background-color: #eef7fc;}
+.wrapper > .wrapper_ul > li > a{ color: #fff; background-color: #78bfff;}
+.wrapper > .wrapper_ul > .last_li{background-color: #78bfff;}
+.tribe_list ul li .tribe_but a{color:#fff;} 
+/*三级导航栏*/
+.all_nav{ background-color: #2893f5; }
+.all_nav ul{background-color: #78bfff;}
+.all_nav ul li a{ color: #fff;  }
+.all_nav ul li:nth-child(1){background-color: #51acff; background-image: url("../../images/touchScreen/navigate/yemian_1.png"); }
+.all_nav ul li:nth-child(1) > a{ background-color: #2893f5; }
+.all_nav ul li:nth-child(2){background-color: #78bfff; background-image: url("../../images/touchScreen/navigate/yemian_2.png");}
+.all_nav ul li:nth-child(2) > a{ background-color: #51acff;}
+.all_nav ul li:nth-child(3){background-color: #90CDFD; background-image: url("../../images/touchScreen/navigate/yemian_3.png");}
+.all_nav ul li:nth-child(3) > a{ background-color: #79bdff; }
+.all_nav ul li:nth-child(3) + li > a{ background-color: #90CDFD; }
+.all_nav .nav_active_a{ color: #fff; }
+/*展开nav*/
+.wrap_open{background-color: #fff; }
+.wrap_open_title{ color: #424242;}
+.wrap_open_down{background-color: #78bfff; background-position: -8px 8px; }
+.wrap_open_up{background-color: #fff; background-position: -39px 8px; }
+.hidden{background-color: #fff; color: #424242;}
+.hidden > a{border: 0.5px solid #e0e0e0; background-color: #fcfcfc;}
+.hidden .nav_open_active{ color: #fff; background-color: #78bfff; }
+/*靓号*/
+.hongbao_form .ping{background-color: #ffd554; }
+.hongbao_form .pu{background-color: #A6A6A6;}
+/*************index.css**************/
+.menu_bottom b{color: #ffa21d; border: 1px solid #ffa21d;}
+.share_d_c .share_d_c_p > a{border-right: 1px solid #676767;}
+.share_dynamic .paihangban_s{border-left: 1px solid #424242;}
+.share_libao_c .paihangban_s{ border-left: 1px solid #424242; }
+/************************gameChildren.css******************************/
+.game_content_bottom > .game_order{ background-color: #f4abb2;}
+/*彩贝说明，TA的游戏*/
+.ss_delete_tips{background-color: #fff2bd; }
+.edition a{ border-right:1px solid #2893f5; }
+/*进度条*/
+.progress { background-color:#ccc; color: #0064B4;}
+.progress::-moz-progress-bar { background: #abcaf4; }
+.progress::-webkit-progress-bar { background: #ccc; }
+.progress::-webkit-progress-value  { background: #abcaf4; }
+/*颜色风格*/
+.color_blue{ background-color: #51acff; box-shadow: 2px 2px 10px #51acff;}
+.color_cherry{ background-color: #f26480; box-shadow: 2px 2px 10px #f26480;}
+.color_green{ background-color: #01aa9d; box-shadow: 2px 2px 10px #01aa9d;}
+.color_brown{ background-color: #5d4539; box-shadow: 2px 2px 10px #5d4539;}
+.color_purple{ background-color: #9c8cf7; box-shadow: 2px 2px 10px #9c8cf7;}
+.color_black{ background-color: #151321; box-shadow: 2px 2px 10px #151321;}
+/*小图标*/
+select{ background-image:url("../../images/touchScreen/select_bottom/bottom_s1.png"); }
+.input input{ background-image: url("../../images/touchScreen/sprites/search_01.png"); }
+.wulinmeng_top .in_game > a::before{ background-position: 0px 2px; }
+.biaoqing_sub{ background-position: 0px 5px; }
+.time_form_img{ background-position: -7px 0px;}
+
+/*新导航栏经典蓝风格颜色--开始*/
+#wrapper{
+    background-color: #78bfff;
+}
+#wrapper ul{
+    background-color: #eef7fc;
+}
+#wrapper ul li {
+    background-color: #78bfff;
+}
+#wrapper ul li a{
+    color: #fff;
+}
+#wrapper ul li.active_new a{
+    color: #2893f5;
+    background-color:#eef7fc;
+}
+#wrapper ul .last_li{
+    background-color: #78bfff;
+}
+.wrap_open_up{
+    color:#51acff;
+}
+.wrap_open_down{
+    color:#fff;
+}
+/*新导航栏经典蓝风格颜色--结束*/

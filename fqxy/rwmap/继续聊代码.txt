@@ -1,0 +1,4 @@
+//继续聊
+$rw10=$npcc;//npc号
+include("./rw/jxl.php");
+//继续聊

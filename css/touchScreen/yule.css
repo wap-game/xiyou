@@ -1,0 +1,12 @@
+﻿.yule_game_bottom{ height: 44px; line-height: 44px; width: 94%; margin: 0 auto; }
+.yule_game_bottom a{ padding: 0px; display: inline-block; width: 24%; text-align: center; line-height: 20px;
+	margin-bottom: 4%; }
+.yule_game_bottom a:last-child{ border-right: none; }
+.yule_new_game{ height: auto; }
+.yule_new_game .new_game{ width: 100%; height: auto; }
+.yule_new_game .ng_content{ width: 94%; margin: 0 auto; }
+.yule_new_game .ng_content img{ width: 100%; }
+.yule_new_game .ng_bottom{ width: 94%; margin: 2% auto 0px; }
+.yule_new_game .ng_bottom p{ height: 26px; line-height: 26px; }
+.friend_name .yule_friend{ line-height: 48px; }
+.yule_luntan .guidelines_a{ padding-top: 2%; }
