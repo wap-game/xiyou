@@ -6,7 +6,7 @@ xiyou
 ------------
 该项目是手机WAP游戏《幻想西游》服务器全套代码，开发语言使用php，数据库使用mysql。架构逻辑简单粗暴，很多人现在还用它搭建私服运营。
 
-![游戏截图](https://github.com/niushiqi/xiyou/blob/master/images/xiyou-home.jpg)
+![游戏截图](images/xiyou-home.jpg)
 
 你是从哪得到它的？
 ------------
