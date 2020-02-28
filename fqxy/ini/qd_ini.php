@@ -26,7 +26,7 @@ $info1=@mysql_fetch_array($sql1);
 $id=$info1[id];
 if($id ==""){
 
-$sql1=mysql_query("select MAX(uid) from $q2");
+$sql1=mysql_query("select MAX(id) from $q2");
 $abc=mysql_fetch_array($sql1);
 $maxid=$abc[0];
 if($maxid ==""){

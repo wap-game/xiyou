@@ -62,7 +62,7 @@ box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,0.6);
 <?php
 ini_set("error_reporting","E_ALL & ~E_NOTICE");//防止报错代码
 
-include("/url/url.php");
+include("./url/url.php");
 //$xyurl="http://".$xxjyurl."/index.php";
 $xyurl="http://".$xxjyurl."/xxjy/index.php";
 $zcxx="<font color=red>当前验证信息失效,请重新登录</font>"."<br><br><a href='$xyurl'><font color=blue>返回登录</font></a>"."<br>";

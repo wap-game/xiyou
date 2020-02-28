@@ -46,8 +46,8 @@ $mysql002=$maxidd+10000000;
 
 //状态数据初始化
 $q2="all_zt";
-$sql = "insert into $q2 (wjid,username,sex,tx,peiou,zzmz,zzid,zzfl,dj,mpp,bpmz,bpid,vip,vipjy,gsrl,bbrl,ckrl,emz)  values('$mysql002','','','','','','','','1','','','','0','0','500','1000','2000','0')";
- if (!mysql_query($sql,$conn)){
+$sql = "insert into $q2 (wjid,username,sex,tx,peiou,peiouid,zzmz,zzid,zzfl,dj,mpp,bpmz,bpid,vip,vipjy,gsrl,bbrl,ckrl,emz,lh)  values('$mysql002','',0,'','', 0, '', 0, 0, 1, 0,'', 0, 0, 0, 500, 1000, 2000, 0,0)";
+if (!mysql_query($sql,$conn)){
    die('Error: ' . mysql_error());
  }
 

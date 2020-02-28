@@ -65,8 +65,7 @@ box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,0.6);
 
 <?php
 
-
-ini_set("error_reporting","E_ALL & ~E_NOTICE");//防止报错代码
+error_reporting(E_ALL & ~E_NOTICE);
 ini_set("date.timezone","PRC");//时间效准代码
 
 //安全备份
@@ -210,19 +209,19 @@ $iniFile->updItem('最后页面id', ['npcid' => $npcc]);
 	
 } 
 # 获取一个分类下所有数据
-$user=($iniFile->getCategory('验证信息'));	
+$user=($iniFile->getCategory('验证信息'));
 $xyid="";
-$xyid=$user[uid];
-$tzm=$user[玩家游戏码];
-$b1=$user[年];
-$b2=$user[月];
-$b3=$user[日];
-$b4=$user[时];
-$b5=$user[分];
-$b6=$user[秒];
-$cid=$user[cmid值];
-$xcid=$user[xcmid值];
-$dcid=$user[dcmid值];
+$xyid=$user['uid'];
+$tzm=$user['玩家游戏码'];
+$b1=$user['年'];
+$b2=$user['月'];
+$b3=$user['日'];
+$b4=$user['时'];
+$b5=$user['分'];
+$b6=$user['秒'];
+$cid=$user['cmid值'];
+$xcid=$user['xcmid值'];
+$dcid=$user['dcmid值'];
 
 if($cid == 0){
 	$cid = 1;
@@ -239,6 +238,7 @@ $clj[]=2;
 $npc[]=0;
 $npc[]=0;
 } else{
+    echo '#1';
 include("sx.php");
 
 exit;
@@ -248,6 +248,7 @@ exit;
 //判断特征码是否合法
 if($tzm ==$a1){
 } else{
+    echo '#2';
 
 include("sx.php");
 
@@ -267,13 +268,14 @@ $xx=$y*60*60*24*365+$m*60*60*24*30+$d*60*60*24+$h*60*60+$i*60+$s;
 $yy=$b1*60*60*24*365+$b2*60*60*24*30+$b3*60*60*24+$b4*60*60+$b5*60+$b6;
 $xxx=$xx-$yy;
 
-if($xxx <=1200){
-} else{
-include("sx.php");
+//if($xxx <=1200){
+//} else{
+//    echo '#3';
+//    include("sx.php");
 
 
-exit;
-}
+//exit;/
+//}
 
 //修改时间信息方便下次验证时间
 
@@ -357,19 +359,19 @@ $cdid[]="";
 
 //npc
 
-if($cmdd >=1&&$cmdd >=100){
-include("xy01.php");	
-} elseif($cmdd >=101&&$cmdd >=200){
+if($cmdd >=1&&$cmdd <=100){
+include("xy01.php");
+} elseif($cmdd >=101&&$cmdd <=200){
 include("xy02.php");	
-} elseif($cmdd >=201&&$cmdd >=300){
+} elseif($cmdd >=201&&$cmdd <=300){
 include("xy03.php");
-} elseif($cmdd >=301&&$cmdd >=400){
+} elseif($cmdd >=301&&$cmdd <=400){
 include("xy04.php");	
-} elseif($cmdd >=401&&$cmdd >=500){
+} elseif($cmdd >=401&&$cmdd <=500){
 include("xy05.php");	
-} elseif($cmdd >=501&&$cmdd >=600){
+} elseif($cmdd >=501&&$cmdd <=600){
 include("xy06.php");	
-} elseif($cmdd >=601&&$cmdd >=700){
+} elseif($cmdd >=601&&$cmdd <=700){
 include("xy07.php");	
 
 
@@ -402,9 +404,10 @@ $s= 0;
 
 # 修改一个分类下子项的值(也可以修改多个)
 $iniFile->updItem('验证信息', ['年' => $y,'月' => $m,'日' => $d,'时' => $h,'分' => $i,'秒' => $s]);
-	
-	
-include("sx.php");
+
+    echo '#4';
+
+    include("sx.php");
 echo "特征4";
 
 }
@@ -453,7 +456,7 @@ $a5=$cmid;
 
 
 # 添加一个分类并直接添加子项
-$iniFile->addCategory('验证信息', ['xcmid值' => $a4, 'dcmid值' => a5]);
+$iniFile->addCategory('验证信息', ['xcmid值' => $a4, 'dcmid值' => 'a5']);
 # 修改一个分类下子项的值(也可以修改多个)
 $iniFile->updItem('验证信息', ['xcmid值' => $a4,'dcmid值' => $a5]);
 
@@ -644,6 +647,7 @@ echo "<font color=red>----------调试信息-----------</font>"."<br>";
 
 
 }else{
+    echo '#5';
 
 	include("sx.php");	
 

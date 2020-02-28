@@ -18,7 +18,7 @@ $pass1=$info1[password];
 //游戏区域id
 if($xxjy_qy==1){
 	$wjini=$uid+10000000;
-	} elseif($xxjy_qy==2){  
+} elseif($xxjy_qy==2){
 	$wjini=$uid+10000000;
 } elseif($xxjy_qy==3){  
 	$wjini=$uid+10000000;

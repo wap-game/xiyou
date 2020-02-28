@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4b1ad5a-c380-476c-bedc-243865240b3a" name="Default Changelist" comment="" />
+    <list default="true" id="f4b1ad5a-c380-476c-bedc-243865240b3a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/ini/qd_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/qd_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/ini/yxuser_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/yxuser_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/sql/mysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/sql/mysql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/sql/xxjyCurl.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/sql/xxjyCurl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/sql/yxCurl.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/sql/yxCurl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/url/url.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/url/url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/xxjyindex.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/xxjyindex.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/xxsql/xxsql.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/xxsql/xxsql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/xy.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/xy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/mysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/sql/mysql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/xxjyCurl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sql/xxjyCurl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url/url.php" beforeDir="false" afterPath="$PROJECT_DIR$/url/url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/url/yxurl.php" beforeDir="false" afterPath="$PROJECT_DIR$/url/yxurl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wapyx/xywap1.php" beforeDir="false" afterPath="$PROJECT_DIR$/wapyx/xywap1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxjy/regist.php" beforeDir="false" afterPath="$PROJECT_DIR$/xxjy/regist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxjy/xxjyzc.php" beforeDir="false" afterPath="$PROJECT_DIR$/xxjy/xxjyzc.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,86 +27,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wapyx/xywap3.php">
+        <entry file="file://$PROJECT_DIR$/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wapyx/xywap2.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wapyx/xywap4.php">
+        <entry file="file://$PROJECT_DIR$/fqxy/ini/yxuser_ini.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="55" column="60" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fqxy/xyy.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fqxy/sql/xxjyCurl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fqxy/sql/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fqxy/index/index1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fqxy/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="87" column="20" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="20" />
+            <state relative-caret-position="420">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fqxy/xy.php">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="368" column="24" lean-forward="true" selection-start-line="368" selection-start-column="24" selection-end-line="368" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#6007#6226#0#PHP" />
-                <element signature="e#7799#8602#0#PHP" />
-                <element signature="e#9026#9156#0#PHP" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -129,6 +91,9 @@
       <find>login</find>
     </findStrings>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -146,34 +111,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="西游源码无授权版" type="b2602c69:ProjectViewProjectNode" />
-              <item name="西游源码无授权版" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="西游源码无授权版" type="b2602c69:ProjectViewProjectNode" />
-              <item name="西游源码无授权版" type="462c0819:PsiDirectoryNode" />
-              <item name="fqxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="西游源码无授权版" type="b2602c69:ProjectViewProjectNode" />
-              <item name="西游源码无授权版" type="462c0819:PsiDirectoryNode" />
-              <item name="fqxy" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="西游源码无授权版" type="b2602c69:ProjectViewProjectNode" />
-              <item name="西游源码无授权版" type="462c0819:PsiDirectoryNode" />
-              <item name="xxjy" type="462c0819:PsiDirectoryNode" />
+              <item name="xiyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,20 +158,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7328000" />
+    <option name="totallyTimeSpent" value="7329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="798" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21459228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -230,10 +174,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

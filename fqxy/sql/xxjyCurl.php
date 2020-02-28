@@ -18,7 +18,6 @@ curl_setopt($ch, CURLOPT_POSTFIELDS, $post_data);
 //开始请求服务器
 $response = curl_exec($ch);
 //打印服务器返回的数据
-//var_dump($response);
 
 curl_close($ch);
 

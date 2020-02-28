@@ -74,25 +74,11 @@ if($_POST['submit']){
 	
 	
 //内测完后删除	
-$zczh5= $_POST['zc5'];	
-	
-	
-	
+//$zczh5= $_POST['zc5'];
 
-	
-if($zczh5!=""){	
+//if($zczh5!=""){
 //内测完后删除		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 $zczh1= $_POST['zc1'];	
 	
 if($zczh1!=""){
@@ -101,7 +87,7 @@ if($zczh2!=""){
 $zczh3= $_POST['zc3'];	
 if($zczh3!=""){
 
-$zczh4= $_POST['zc4'];	
+$zczh4= '12345678';
 if($zczh4!=""){
 $zczh6= $_POST['zc6'];	
 if($zczh6!=""){
@@ -115,20 +101,16 @@ if(strlen($zczh6) <= 16){
 //连接数据库
 include("../sql/mysql.php");//调用数据库连接
 
+//$q2="zem";
+//mysql_query("set names utf8");
+//$sql1=mysql_query("select * from $q2 where zem='$zczh5'",$conn);
+//$info1=@mysql_fetch_array($sql1);
+//$zcm=$info1[zem];
+//$sy=$info1[sy];
 
 
-$q2="zem";
-mysql_query("set names utf8");
-$sql1=mysql_query("select * from $q2 where zem='$zczh5'",$conn);
-$info1=@mysql_fetch_array($sql1);
-$zcm=$info1[zem];
-$sy=$info1[sy];
-
-
-
-
-if($zczh5==$zcm){
-if($sy==1){
+//if($zczh5==$zcm){
+//if($sy==1){
 
 //查询账号是否已占有
 $q2="o_user_list";
@@ -196,15 +178,10 @@ $dir = iconv("UTF-8", "GBK", "$path");
         } else {
         }
 
-$q2="zem";
-mysql_query("set names utf8");
-$strsql = "update $q2 set sy=2 where zem='$zczh5'";//物品id号必改值
-$result = mysql_query($strsql);
-
- 
-
-
-
+//$q2="zem";
+//mysql_query("set names utf8");
+//$strsql = "update $q2 set sy=2 where zem='$zczh5'";//物品id号必改值
+//$result = mysql_query($strsql);
 
 include("../url/url.php");
 
@@ -224,14 +201,14 @@ $zcxx="<font color=red>对不起！这个昵称太火了换一个吧</font>";
 $zcxx="<font color=red>对不起该账号已存在了</font>";
 }
 
-}else{
-echo "<font color=red>对不起!该注册码已被使用过了</font>"."<br>";
-
-}
-}else{
-echo "<font color=red>对不起!你的注册码不正确</font>"."<br>";
-
-}
+//}else{
+//echo "<font color=red>对不起!该注册码已被使用过了</font>"."<br>";
+//
+//}
+//}else{
+//echo "<font color=red>对不起!你的注册码不正确</font>"."<br>";
+//
+//}
 
 }else{
 
@@ -287,10 +264,10 @@ $zcxx="<font color=red>账号不能为空</font>";
 
 
 //内测完后删除	
-}else{
-
-$zcxx="<font color=red>对不起!注册码不能为空</font>";
-}
+//}else{
+//
+//$zcxx="<font color=red>对不起!注册码不能为空</font>";
+//}
 
 
 }else{
@@ -334,8 +311,8 @@ $zcxx="<font color=red>对不起!注册码不能为空</font>";
 账----号：&nbsp&nbsp&nbsp&nbsp<input  type="text" name="zc1" placeholder="账号"id='search'><font color=red>（6-12位的字母或数字）</font><br>
 密----码：&nbsp&nbsp&nbsp&nbsp<input  type="text" name="zc2" placeholder="密码"id='search'><font color=red>（6-12位的字母或数字）</font><br>
 确认密码：&nbsp&nbsp<input  type="text" name="zc3"  placeholder="确认密码"id='search'><font color=red>（6-12位的字母或数字）</font><br>
-[安全码]：&nbsp&nbsp&nbsp<input  type="text" name="zc4" placeholder="安全码"id='search'><font color=red>（6-12位的字母或数字）</font><br>
-[注册码]：&nbsp&nbsp&nbsp<input  type="text" name="zc5" placeholder="注册码"id='search'><font color=red>（请向加QQ群54665469索要）</font><br>
+<!--[安全码]：&nbsp&nbsp&nbsp<input  type="text" name="zc4" placeholder="安全码"id='search'><font color=red>（6-12位的字母或数字）</font><br>-->
+<!--[注册码]：&nbsp&nbsp&nbsp<input  type="text" name="zc5" placeholder="注册码"id='search'><font color=red>（请向加QQ群54665469索要）</font><br>-->
 <input  type="submit" name="submit"  value="注册" id="search1" /><br>
 </form>
 

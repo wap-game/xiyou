@@ -19,13 +19,6 @@ include("../url/yxurl.php");
 if($xxyou_url==$url){
 
 
-
-
-
-
-
-
-
 if($wjid>10000000&&$xxjy_pass!=""){
 
 include("../class/iniclass.php");//调用iniclass文件
@@ -55,12 +48,12 @@ $yxhe=1;
 }
 
 }else{
+
+
 	$yxhe=1;	
 //echo "不合法游戏区域有问题";
 //echo "</br>";
-	
-	
-	
+
 }
 
 //将信息回调给游戏

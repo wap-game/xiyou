@@ -48,11 +48,11 @@
 
 
 
-<tr>
-<td><div class="lbg"><div class="blue circle">5</div></div></td>
-<td><div class="lbg"><a href="xywap3.php<?echo $xxjyurl;echo "&&qy=2"?>" style='color:green'>纯净新【宝象国】(11.26启动)</a></div></td>
-<td><div class="lbg"><a href="xywap3.php<?echo $xxjyurl;echo "&&qy=2"?>" style='color:green'>进入游戏</a></div></td>
-</tr>
+<!--<tr>-->
+<!--<td><div class="lbg"><div class="blue circle">5</div></div></td>-->
+<!--<td><div class="lbg"><a href="xywap3.php--><?//echo $xxjyurl;echo "&&qy=2"?><!--" style='color:green'>纯净新【宝象国】(11.26启动)</a></div></td>-->
+<!--<td><div class="lbg"><a href="xywap3.php--><?//echo $xxjyurl;echo "&&qy=2"?><!--" style='color:green'>进入游戏</a></div></td>-->
+<!--</tr>-->
 
 <tr>
 <td><div class="lbg"><div class="blue circle">4</div></div></td>
