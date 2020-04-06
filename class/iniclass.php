@@ -1,11 +1,11 @@
 <?php
 /**
-* PHP²Ù×÷iniÎÄ¼þÀà
-* @author Wigiesen - ÐÄÓïÄÑËß
+* PHPæ“ä½œiniæ–‡ä»¶ç±»
+* @author Wigiesen - å¿ƒè¯­éš¾è¯‰
 * @version v1.0
 * @link https://xinyu19.com
-* ×¢£ºiniÎÄ¼þÓÉ½Ú¡¢¼ü¡¢Öµ×é³É£¬ÎªÁË·½±ã
-* ÀàÖÐµÄ[½Ú]ÎÒÃÇ½Ð×ö[·ÖÀà]£¬[¼ü=>Öµ]³ÆÎª[×ÓÏî]
+* æ³¨ï¼šiniæ–‡ä»¶ç”±èŠ‚ã€é”®ã€å€¼ç»„æˆï¼Œä¸ºäº†æ–¹ä¾¿
+* ç±»ä¸­çš„[èŠ‚]æˆ‘ä»¬å«åš[åˆ†ç±»]ï¼Œ[é”®=>å€¼]ç§°ä¸º[å­é¡¹]
 */
  
 class iniFile
@@ -15,7 +15,7 @@ class iniFile
 	function __construct($iniFilePath)
 	{
 		$this->iniFilePath = $iniFilePath;
-		# ¶ÁÈë .ini ÎÄ¼þµ½¾ä±úÖÐ
+		# è¯»å…¥ .ini æ–‡ä»¶åˆ°å¥æŸ„ä¸­
 		if (file_exists($this->iniFilePath)) {
 			$this->iniFileHandle = parse_ini_file($this->iniFilePath, true);
 			if (empty($this->iniFileHandle)) die($this->iniFilePath . ' file is null');
@@ -23,7 +23,7 @@ class iniFile
 			die($this->iniFilePath . ' file cannot be opened');
 		}
 	}
-	//Ôö¼Ó·ÖÀà
+	//å¢žåŠ åˆ†ç±»
 	public function addCategory($category_name,array $item = []){
 		if (!isset($this->iniFileHandle[$category_name])) {
 			$this->iniFileHandle[$category_name] = [];
@@ -36,24 +36,24 @@ class iniFile
 		}
 		$this->save();
 	}
-	//Ôö¼Ó×ÓÏî[¿ÉÔÚÌí¼Ó·ÖÀàµÄÍ¬Ê±Ìí¼Ó×ÓÏî]
+	//å¢žåŠ å­é¡¹[å¯åœ¨æ·»åŠ åˆ†ç±»çš„åŒæ—¶æ·»åŠ å­é¡¹]
 	public function addItem($category_name, array $item){
 		foreach ($item as $key => $value) {
 			$this->iniFileHandle[$category_name][$key] = $value;
 		}
 		$this->save();
 	}
-	//»ñÈ¡ËùÓÐ
+	//èŽ·å–æ‰€æœ‰
 	public function getAll(){
 		return $this->iniFileHandle;
 	}
-	//»ñÈ¡µ¥¸ö·ÖÀà
+	//èŽ·å–å•ä¸ªåˆ†ç±»
 	public function getCategory($category_name){
 		return $this->iniFileHandle[$category_name];
 	}
-	//»ñÈ¡×ÓÏîÖµ
+	//èŽ·å–å­é¡¹å€¼
 	public function getItem($category_name, $item_name){
-		# Èç¹ûÊÇ»ñÈ¡¶à¸ö×ÓÏî,ÔòÑ­»·¶ÁÈ¡·ÅÈëÐÂ±äÁ¿
+		# å¦‚æžœæ˜¯èŽ·å–å¤šä¸ªå­é¡¹,åˆ™å¾ªçŽ¯è¯»å–æ”¾å…¥æ–°å˜é‡
 		if (is_array($item_name)) {
 			$arr = array();
 			foreach ($item_name as $value) {
@@ -64,27 +64,27 @@ class iniFile
 			return $this->iniFileHandle[$category_name][$item_name];
 		}
 	}
-	//¸ü¸Äini
+	//æ›´æ”¹ini
 	public function updItem($category_name, array $item){
 		foreach ($item as $key => $value) {
 			$this->iniFileHandle[$category_name][$key] = $value;
 		}
 		$this->save();
 	}
-	//É¾³ý·ÖÀà
+	//åˆ é™¤åˆ†ç±»
 	public function delCategory($category_name){
 		unset($this->iniFileHandle[$category_name]);
 		$this->save();
 	}
-	//É¾³ý×ÓÏî
+	//åˆ é™¤å­é¡¹
 	public function delItem($category_name, $item_name)	{
 		unset($this->iniFileHandle[$category_name][$item_name]);
 		$this->save();
 	}
-	//±£´æ.iniÎÄ¼þ
+	//ä¿å­˜.iniæ–‡ä»¶
 	public function save(){
 		$string = '';
-		# Ñ­»·¾ä±ú£¬Æ´½Ó³Éini¸ñÊ½µÄ×Ö·û´®
+		# å¾ªçŽ¯å¥æŸ„ï¼Œæ‹¼æŽ¥æˆiniæ ¼å¼çš„å­—ç¬¦ä¸²
 		foreach ($this->iniFileHandle as $key => $value) {
 			$string .= '['.$key.']'."\r\n";
 			foreach ($value as $k => $v) {

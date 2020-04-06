@@ -2,7 +2,7 @@
 
 $mysqla1 = '127.0.0.1';
 $mysqla2 = 'root';
-$mysqla3 = '123456';
+$mysqla3 = 'root';
 
 
 

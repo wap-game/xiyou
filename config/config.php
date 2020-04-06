@@ -1,3 +1,3 @@
 <?php
 
-$config['host'] = 'www.huanxiangxiyou.com';
+$config['host'] = 'localhost';

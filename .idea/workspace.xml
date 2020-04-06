@@ -2,23 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b1ad5a-c380-476c-bedc-243865240b3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fqxy/ini/qd_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/qd_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/aqbf.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/aqbf.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/class/iniclass.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/class/iniclass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/ini/sjyz_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/sjyz_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/ini/user_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/user_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/ini/xuser_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/xuser_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/ini/yxrw_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/yxrw_ini.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fqxy/ini/yxuser_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/yxuser_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/ini/zt_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/zt_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/ini/zxrw_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/ini/zxrw_ini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/rwxx/zxrwxx.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/rwxx/zxrwxx.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fqxy/sql/mysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/sql/mysql.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fqxy/sql/xxjyCurl.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/sql/xxjyCurl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fqxy/sql/yxCurl.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/sql/yxCurl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fqxy/url/url.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/url/url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/template/xy001.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/template/xy001.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/template/xy044.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/template/xy044.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/template/xy045.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/template/xy045.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/template/xy049.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/template/xy049.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fqxy/xxjyindex.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/xxjyindex.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fqxy/xxsql/xxsql.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/xxsql/xxsql.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fqxy/xy.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/xy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fqxy/xyy.php" beforeDir="false" afterPath="$PROJECT_DIR$/fqxy/xyy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ini/wjdt_ini.php" beforeDir="false" afterPath="$PROJECT_DIR$/ini/wjdt_ini.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/mysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/sql/mysql.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sql/xxjyCurl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sql/xxjyCurl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/url/url.php" beforeDir="false" afterPath="$PROJECT_DIR$/url/url.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/url/yxurl.php" beforeDir="false" afterPath="$PROJECT_DIR$/url/yxurl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wapyx/xywap.php" beforeDir="false" afterPath="$PROJECT_DIR$/wapyx/xywap.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wapyx/xywap1.php" beforeDir="false" afterPath="$PROJECT_DIR$/wapyx/xywap1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wapyx/xywap3.php" beforeDir="false" afterPath="$PROJECT_DIR$/wapyx/xywap3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wapyx/xywap5.php" beforeDir="false" afterPath="$PROJECT_DIR$/wapyx/xywap5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxjy/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/xxjy/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxjy/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/xxjy/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xxjy/regist.php" beforeDir="false" afterPath="$PROJECT_DIR$/xxjy/regist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xxjy/xxjyzc.php" beforeDir="false" afterPath="$PROJECT_DIR$/xxjy/xxjyzc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xxjy/xy.php" beforeDir="false" afterPath="$PROJECT_DIR$/xxjy/xy.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,28 +49,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/config.php">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fqxy/ini/yxuser_ini.php">
+        <entry file="file://$PROJECT_DIR$/fqxy/xy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="398">
+              <caret line="493" selection-start-line="493" selection-end-line="493" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/func/logConnect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/func/statistic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="e#8#559#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fqxy/sql/mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/fqxy/xyy.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="120">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="23" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fqxy/ini/xuser_ini.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fqxy/xxsql/xxsql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6495">
+              <caret line="433" selection-start-line="433" selection-end-line="433" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fqxy/ache/10000001/user.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -59,52 +148,93 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>最后页面id</find>
-      <find>zsini.php</find>
-      <find>cwdqy3</find>
-      <find>$zsspd</find>
-      <find>$uname</find>
-      <find>$cmdd</find>
-      <find>xy297</find>
-      <find>xy298</find>
-      <find>pz01</find>
-      <find>xy295</find>
-      <find>$fhbl</find>
-      <find>玩家排序</find>
-      <find>玩家发言</find>
-      <find>$ltmax1</find>
-      <find>476</find>
-      <find>福利</find>
-      <find>$cdid</find>
-      <find>$q4</find>
-      <find>$clj</find>
-      <find>$npc</find>
-      <find>超链接值</find>
-      <find>xy.php</find>
-      <find>$xyurl</find>
-      <find>gameIndex</find>
-      <find>$cmid</find>
-      <find>$iniFile</find>
+      <find>config_item</find>
+      <find>include_once</find>
+      <find>exit</find>
+      <find>【游戏选项</find>
+      <find>o_user_list</find>
+      <find>返回登录</find>
+      <find>cmid</find>
+      <find>当前验证信息失效,请重新登录</find>
+      <find>由于小轩一站式通行证进行过修改数据验证已同步至游戏</find>
+      <find>小轩娱乐社区与游戏平台对接成功，重新登录下即可！！</find>
+      <find>xxsql.php</find>
+      <find>xxsql</find>
+      <find>xxjyindex</find>
+      <find>$zcxx1</find>
       <find>$xxjyurl</find>
-      <find>进入游戏</find>
-      <find>xyy</find>
-      <find>login</find>
+      <find>$name</find>
+      <find>qy</find>
+      <find>$qy</find>
+      <find>$xxjy_qy</find>
+      <find>$hf</find>
+      <find>$pass</find>
+      <find>$wjid</find>
+      <find>$a10</find>
+      <find>$uwjid</find>
+      <find>$sqid</find>
+      <find>$kcmid</find>
+      <find>logConnect</find>
+      <find>123456</find>
+      <find>'127.0.0.1'</find>
+      <find>连接服务器失败</find>
     </findStrings>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/fqxy/rw/zxrw01_1.php" />
+        <option value="$PROJECT_DIR$/fqxy/class/iniclass.php" />
+        <option value="$PROJECT_DIR$/fqxy/ini/sjyz_ini.php" />
+        <option value="$PROJECT_DIR$/fqxy/ini/user_ini.php" />
+        <option value="$PROJECT_DIR$/fqxy/ini/zt_ini.php" />
+        <option value="$PROJECT_DIR$/fqxy/ache/10000001/user.ini" />
+        <option value="$PROJECT_DIR$/fqxy/ini/yxrw_ini.php" />
+        <option value="$PROJECT_DIR$/fqxy/ini/zxrw_ini.php" />
+        <option value="$PROJECT_DIR$/fqxy/template/xy044.php" />
+        <option value="$PROJECT_DIR$/fqxy/template/xy045.php" />
+        <option value="$PROJECT_DIR$/fqxy/template/xy049.php" />
+        <option value="$PROJECT_DIR$/fqxy/rwxx/zxrwxx.php" />
+        <option value="$PROJECT_DIR$/config/config.php" />
+        <option value="$PROJECT_DIR$/func/logConnect.php" />
+        <option value="$PROJECT_DIR$/fqxy/template/xy001.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/xxjy/index.php" />
+        <option value="$PROJECT_DIR$/xxjy/login.php" />
+        <option value="$PROJECT_DIR$/xxjy/regist.php" />
+        <option value="$PROJECT_DIR$/wapyx/xywap.php" />
+        <option value="$PROJECT_DIR$/url/yxurl.php" />
+        <option value="$PROJECT_DIR$/wapyx/xywap1.php" />
+        <option value="$PROJECT_DIR$/ini/wjdt_ini.php" />
+        <option value="$PROJECT_DIR$/wapyx/xywap5.php" />
+        <option value="$PROJECT_DIR$/wapyx/xywap3.php" />
+        <option value="$PROJECT_DIR$/fqxy/aqbf.php" />
+        <option value="$PROJECT_DIR$/fqxy/xxjyindex.php" />
+        <option value="$PROJECT_DIR$/fqxy/xyy.php" />
+        <option value="$PROJECT_DIR$/fqxy/sql/xxjyCurl.php" />
+        <option value="$PROJECT_DIR$/sql/xxjyCurl.php" />
+        <option value="$PROJECT_DIR$/fqxy/ini/yxuser_ini.php" />
+        <option value="$PROJECT_DIR$/fqxy/ini/xuser_ini.php" />
+        <option value="$PROJECT_DIR$/fqxy/sql/yxCurl.php" />
+        <option value="$PROJECT_DIR$/fqxy/xxsql/xxsql.php" />
+        <option value="$PROJECT_DIR$/fqxy/xxjyindex5.php" />
+        <option value="$PROJECT_DIR$/xxjy/xy.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/fqxy/xy.php" />
+        <option value="$PROJECT_DIR$/sql/mysql.php" />
+        <option value="$PROJECT_DIR$/func/statistic.php" />
+        <option value="$PROJECT_DIR$/fqxy/sql/mysql.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1440" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="800" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -118,6 +248,16 @@
               <item name="xiyou" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiyou" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xiyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
+              <item name="fqxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiyou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiyou" type="462c0819:PsiDirectoryNode" />
+              <item name="func" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -130,6 +270,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,17 +295,27 @@
       <option name="presentableId" value="Default" />
       <updated>1551421416333</updated>
       <workItem from="1551421417705" duration="7328000" />
+      <workItem from="1583251514892" duration="32000" />
+      <workItem from="1583411513345" duration="753000" />
+      <workItem from="1583506073245" duration="7446000" />
+      <workItem from="1583545446292" duration="12639000" />
+      <workItem from="1583641288743" duration="604000" />
+      <workItem from="1584452524534" duration="157000" />
+      <workItem from="1584452867978" duration="1190000" />
+      <workItem from="1584498530518" duration="99000" />
+      <workItem from="1584622566776" duration="7000" />
+      <workItem from="1586182709495" duration="1235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7329000" />
+    <option name="totallyTimeSpent" value="31704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="798" extended-state="0" />
+    <frame x="-1440" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21459228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -179,6 +330,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32859176" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -188,299 +340,349 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/fqxy/class/iniclass.php</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fqxy/template/xy007.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/template/xy008.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/template/xy021.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/fqxy/template/xy001.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9902">
-          <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
-          <folding>
-            <element signature="e#184#412#0#PHP" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="208" column="9" lean-forward="true" selection-start-line="208" selection-start-column="9" selection-end-line="208" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/xy02.php">
+    <entry file="file://$PROJECT_DIR$/config/Common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2207" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/xy07.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2189" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/xy01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="420">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/ini/zsini.php">
+    <entry file="file://$PROJECT_DIR$/fqxy/xxjyindex2.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/ini/jsini.php">
+    <entry file="file://$PROJECT_DIR$/fqxy/xxjyindex3.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/map/cwd.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="176" column="14" selection-start-line="176" selection-start-column="14" selection-end-line="176" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/gw/cwdqy3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/template/xy297.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/template/xy298.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/pz/pz01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/ini/slt_ini.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/msg/msgg01.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/msg/msgg03.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1307">
-          <caret line="169" column="14" lean-forward="true" selection-start-line="169" selection-start-column="14" selection-end-line="169" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/yq/yq1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/yq/yq2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/ini/zt_ini.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="102" column="20" lean-forward="true" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/map/mapid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/wj/zzwj.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6675" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/template/xy002.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="780" column="4" selection-start-line="780" selection-end-line="780" selection-end-column="4" />
-          <folding>
-            <element signature="e#3302#4542#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/template/fhgame.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/template/xy023.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/url/url.php">
+    <entry file="file://$PROJECT_DIR$/fqxy/xxjyindex4.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/xxjy/xxjyindex.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="109" column="38" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="38" />
+        <state relative-caret-position="2160">
+          <caret line="144" column="19" lean-forward="true" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/hd_hot.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ini/xxzx_ini.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xxjy/gameIndex.php">
+    <entry file="file://$PROJECT_DIR$/xxjy/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2707" />
+        <state relative-caret-position="243">
+          <caret line="80" column="45" selection-start-line="80" selection-start-column="45" selection-end-line="80" selection-end-column="45" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xxjy/customerIndex.php">
+    <entry file="file://$PROJECT_DIR$/ini/user1_ini.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1033" />
+        <state relative-caret-position="300">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xxjy/dl.php">
+    <entry file="file://$PROJECT_DIR$/xxjy/regist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3992" />
+        <state relative-caret-position="360">
+          <caret line="327" column="16" lean-forward="true" selection-start-line="327" selection-start-column="16" selection-end-line="327" selection-end-column="16" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xxjy/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="227" column="29" selection-start-line="227" selection-start-column="25" selection-end-line="227" selection-end-column="29" />
+        <state relative-caret-position="240">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding>
-            <element signature="e#0#2#0#PHP" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xxjy/friendIndex.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="237" column="71" selection-start-line="237" selection-start-column="66" selection-end-line="237" selection-end-column="71" />
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url/url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wapyx/dtsj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/iniclass.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ini/user_ini.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/user.ini" />
+    <entry file="file://$PROJECT_DIR$/ache/10000001/user.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wapyx/xywap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wapyx/xywap1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="58" column="34" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+        <state relative-caret-position="116">
+          <caret line="108" column="49" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/xxsql/xxsql.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6324" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/xxjyindex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1277" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/sql/yxCurl.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/url/yxurl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-527" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wapyx/xywap2.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ini/wjdt_ini.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wapyx/xywap5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wapyx/xywap3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="435">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wapyx/xywap4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="55" column="60" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="60" />
+        <state relative-caret-position="337">
+          <caret line="55" column="64" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/xyy.php">
+    <entry file="file://$PROJECT_DIR$/fqxy/xxjyindex1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        <state relative-caret-position="-1185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/wh.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/aqbf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/url/url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url/yxurl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/ini/yxuser_ini.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/ache/10000001/yxuser.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/curl/curl_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/xxjyindex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="128" column="30" selection-start-line="128" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/xxjyindex5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acher/wjdt.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/xy01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/template/xy002.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11145">
+          <caret line="743" column="9" selection-start-line="743" selection-start-column="9" selection-end-line="743" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fqxy/sql/xxjyCurl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/sql/index.php">
+    <entry file="file://$PROJECT_DIR$/sql/xxjyCurl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        <state relative-caret-position="885">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/index/index1.php">
+    <entry file="file://$PROJECT_DIR$/fqxy/sql/yxCurl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="945">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/index.php">
+    <entry file="file://$PROJECT_DIR$/xxjy/xy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="87" column="20" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="20" />
+        <state relative-caret-position="1020">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fqxy/pic/ico/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/fqxy/ini/xuser_ini.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/xxsql/xxsql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6495">
+          <caret line="433" selection-start-line="433" selection-end-line="433" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/ache/10000001/user.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fqxy/xy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="368" column="24" lean-forward="true" selection-start-line="368" selection-start-column="24" selection-end-line="368" selection-end-column="24" />
+        <state relative-caret-position="398">
+          <caret line="493" selection-start-line="493" selection-end-line="493" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/func/logConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/func/statistic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding>
-            <element signature="n#style#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#6007#6226#0#PHP" />
-            <element signature="e#7799#8602#0#PHP" />
-            <element signature="e#9026#9156#0#PHP" />
+            <element signature="e#8#559#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/sql/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fqxy/xyy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="23" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
