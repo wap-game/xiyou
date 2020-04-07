@@ -26,4 +26,6 @@ xiyou
 
 运行方法
 ------------
-待更
+[phpstudy搭建教程-详细版](http://www.huanxiangxiyou.com/jiaocheng/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E5%B9%BB%E6%83%B3%E8%A5%BF%E6%B8%B8%E6%9C%8D%E5%8A%A1%E5%99%A8_%E7%99%BE%E5%BA%A6%E7%BB%8F%E9%AA%8C.htm)
+
+------------
