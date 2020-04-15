@@ -20,24 +20,12 @@ class iniFile
         if (file_exists($this->iniFilePath)) {
             $this->iniFileHandle = parse_ini_file($this->iniFilePath, true);
 
-
-            /*
-        if (empty($this->iniFileHandle)) die($this->iniFilePath . ' file is null1');
-        }else{
-        die($this->iniFilePath . ' file cannot be opened');
-        }
-
-        */
-
             if (empty($this->iniFileHandle)) {
                 unlink($this->iniFilePath); //删除文件
             }
-            if (empty($this->iniFileHandle)) ;
         } else {
             die($this->iniFilePath . ' file cannot be opened');
         }
-
-
     }
 
     //增加分类
