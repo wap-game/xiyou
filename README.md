@@ -15,7 +15,7 @@ php + mysql
 - mysql 5.7.22
 
 ## 技术说明
-- 文件缓存
+- [文件缓存(缓存用户数据,格式类似json)](shuoming/ini.txt)
 
 ## 模块说明
 - 地图
