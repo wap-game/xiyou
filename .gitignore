@@ -2,3 +2,6 @@
 .idea/*
 */.DS_Store
 .DS_Store
+config/config.php
+fqxy/sql/mysql.php
+sql/mysql.php
