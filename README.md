@@ -25,3 +25,7 @@ php + mysql
 
 ## 游戏截图
 ![游戏截图](images/xiyou-home.jpg)
+
+## 技术交流
+qq群：636741514  
+![群二维码](images/qqqun.jpg)
