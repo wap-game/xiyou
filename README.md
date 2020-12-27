@@ -4,6 +4,9 @@
 ## 技术栈
 php + mysql
 
+## 活动招募信息（感兴趣的看看了）
+- [2020年1月 docker+幻想西游=？？？ 活动说明](shuoming/docker活动.txt)
+
 ## 项目运行
 1. 将index.php放到服务器目录
 1. 数据库目录覆盖mysql的data目录，修改sql/mysql.php和fqxy/sql/mysql.php的数据库配置

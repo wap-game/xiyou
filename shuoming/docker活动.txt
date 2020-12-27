@@ -1,0 +1,22 @@
+活动主题，docker+幻想西游=？？？
+
+活动介绍：
+幻想西游源码太难搭建了，繁琐的搭建过程让很多新手望而却步。源码需要自己修改各种各样的参数配置，数据库时常无法连接。好在这个时候，docker及时出现了，很多项目都适用docker实现了一件部署，不用关心数据库源码等各种配置，只要有台能联网的电脑，5分钟就能把各种各样的游戏自己搭建起来，这彻底改变了世界
+
+活动时间：
+2020年1月1日 - 2020年1月31日
+
+活动目标：
+编写幻想西游一键部署的Dockerfile文件和docker-compose.yml文件，实测能够部署成功登陆游戏
+
+活动规则：
+1.学习docker，参考其他docker项目。熟悉docker的用法
+2.编写Dockerfile文件，将幻想西游源代码打包成镜像，上传到dockerhub
+3.编写docker-compose.yml文件，将nginx，php，mysql整合，完成一件部署的功能
+
+活动奖品：
+根据完成时间和功能完成度，选出1个1等奖，文件合入幻想西游https://github.com/wap-game/xiyou项目，并在主页署名，奖励50元云服务器充值券。
+
+参考：
+1.最终实现的功能：类似视频https://www.bilibili.com/video/BV1dW411R7qy
+2.文件参考https://github.com/MoeNetwork/Tieba-Cloud-Sign项目的Dockerfile文件和docker-compose.yml文件
