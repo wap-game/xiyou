@@ -4,8 +4,8 @@
 ## 技术栈
 php + mysql
 
-## 活动招募信息（感兴趣的大佬看看了）
-- [2021年1月 docker+幻想西游=？？？ 活动海报](shuoming/docker活动.txt)
+## 新手入门
+- [搭建教程](https://mgfzkk8fca.feishu.cn/wiki/space/7183158086813630466?ccm_open_type=lark_wiki_spaceLink)
 
 ## 项目运行
 1. 将index.php放到服务器目录
