@@ -27,7 +27,7 @@ $xwpsl=$wjwp+$wwpsl;
 
 
 
-if($xwpsl >99999999999){
+if($xwpsl >9999999999999){
 include("./sql/mysql.php");//调用数据库连接 	
 $xwpsl=99999999999;
 $strsql = "update $q2 set bbyl=$xwpsl where wjid=$wjid";
